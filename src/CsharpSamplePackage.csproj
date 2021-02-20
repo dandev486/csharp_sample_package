@@ -5,15 +5,14 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>CSharpSamplePackage</PackageId>
-    <Version>0.0.4</Version>
-    <Title>CSharpSamplePackage Title</Title>
-    <Description>
-      An utterly useless csharp sample package repository, with continuous
-      integration and delivery workflow.
-    </Description>
+    <Title>CSharpSamplePackage</Title>
+    <Description>An utterly useless csharp sample package repository, with continuous integration and delivery workflow.</Description>
     <Authors>dandev486</Authors>
     <Company>dandev486</Company>
+    <PackageId>CSharpSamplePackage</PackageId>
+    <PackageVersion>0.0.5</PackageVersion>
+    <RepositoryUrl>https://github.com/dandev486/CsharpSamplePackage.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
 </Project>
