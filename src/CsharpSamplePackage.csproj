@@ -6,7 +6,7 @@
 
   <PropertyGroup>
     <PackageId>CSharpSamplePackage</PackageId>
-    <Version>0.0.3</Version>
+    <Version>0.0.4</Version>
     <Title>CSharpSamplePackage Title</Title>
     <Description>
       An utterly useless csharp sample package repository, with continuous
