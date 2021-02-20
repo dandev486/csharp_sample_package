@@ -4,4 +4,16 @@
     <TargetFrameworks>netstandard2.0;netstandard2.1;net5.0</TargetFrameworks>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <PackageId>CSharpSamplePackage</PackageId>
+    <Version>0.0.2</Version>
+    <Title>CSharpSamplePackage Title</Title>
+    <Description>
+      An utterly useless csharp sample package repository, with continuous
+      integration and delivery workflow.
+    </Description>
+    <Authors>dandev486</Authors>
+    <Company>dandev486</Company>
+  </PropertyGroup>
+
 </Project>
