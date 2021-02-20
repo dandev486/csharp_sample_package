@@ -10,8 +10,8 @@
     <Authors>dandev486</Authors>
     <Company>dandev486</Company>
     <PackageId>CSharpSamplePackage</PackageId>
-    <PackageVersion>0.0.5</PackageVersion>
-    <RepositoryUrl>https://github.com/dandev486/CsharpSamplePackage.git</RepositoryUrl>
+    <PackageVersion>0.0.6</PackageVersion>
+    <RepositoryUrl>https://github.com/dandev486/csharp_sample_package.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
